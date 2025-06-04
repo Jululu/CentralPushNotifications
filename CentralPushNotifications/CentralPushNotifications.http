@@ -1,0 +1,6 @@
+@CentralPushNotifications_HostAddress = http://localhost:5099
+
+GET {{CentralPushNotifications_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
